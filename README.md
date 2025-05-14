@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jean De Deieu Niyonshuti  </h1>
-<h3 align="center">Full-Stack Developer </h3>
+<h1 align="center">Hi 👋, I'm Jean De Dieu Niyonshuti</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jadowacu1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -12,7 +12,6 @@
 </p>
 
 ### About Me
-
 
 - 🏆 Attending **Andela Technical Leadership Program**
 - 💬 Ask me about **Node.js, React.js**
@@ -48,25 +47,31 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" alt="MongoDB" width="40" height="40"/>
   </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/tailwindcss-1174974.png" alt="Tailwind CSS" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="TypeScript" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/html5-40-1175193.png" alt="HTML" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/css3-11-1175239.png" alt="CSS" width="40" height="40"/>
-</a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/php-99-1175127.png" alt="PHP" width="40" height="40"/>
-</a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png" alt="Java" width="40" height="40"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="Python" width="40" height="40"/>
-</a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/tailwindcss-1174974.png" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/html5-40-1175193.png" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/css3-11-1175239.png" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/php-99-1175127.png" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" alt="Laravel" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer" title="USSD App Development">
+    <img src="https://cdn-icons-png.flaticon.com/64/2482/2482730.png" alt="USSD" width="40" height="40"/>
+  </a>
 </p>
